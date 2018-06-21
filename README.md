@@ -52,4 +52,4 @@ The data for both versions will be recorded to a folder titled `_Data` in the sa
 
 ## Acknowledgements
 
-Both experiments were programmed by Mike Lawrence (@mike-lawrence) under the supervision of Dr. Raymond Klein.
+Both experiments were programmed by Mike Lawrence ([@mike-lawrence](https://github.com/mike-lawrence)) under the supervision of Dr. Raymond Klein.

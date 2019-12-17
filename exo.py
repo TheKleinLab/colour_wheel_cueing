@@ -105,7 +105,7 @@ win.set_exclusive_mouse(True)
 win.set_mouse_cursor(cursor)
 
 win.dispatch_events() #always do a dispatch soon after creating a new window
-image.get_buffer_manager().get_color_buffer().image_data #necessary (for some reason) to ensure openGL drawing coordinates are in pixels with (0,0) in lower left corner
+image.get_buffer_manager().get_color_buffer().get_image_data #necessary (for some reason) to ensure openGL drawing coordinates are in pixels with (0,0) in lower left corner
 
 # Perform some calculations to convert stimulus measurements in degrees to pixels
 screen_width_in_degrees = math.degrees(math.atan((screen_width/2.0)/viewing_distance)*2)

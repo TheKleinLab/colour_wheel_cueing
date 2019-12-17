@@ -1,5 +1,8 @@
 # colour\_wheel\_cueing
 
+[![DOI badge](https://img.shields.io/badge/DOI-10.3390/vision3020031-success.svg)](https://doi.org/10.3390/vision3020031)
+[![OSF Badge](https://img.shields.io/badge/OSF-Materials_Available-blue.svg)](https://osf.io/kmzxn/) 
+
 colour\_wheel\_cueing is a set of experiment programs for a study exploring how both endogenous (i.e. voluntary) and exogenous (i.e. reflexive) attention affect the probability that the colour of targets will be perceived and the accuracy with which they are perceived.
 
 Both experiment programs take the form of modified Posner cueing paradigms, except the target stimuli are coloured 'X's that participants must then indicate the colour of on an RGB colour wheel using the mouse.
